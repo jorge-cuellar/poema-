@@ -11,3 +11,9 @@ esto es amor, quien lo probó lo sabe y lo sabra.
 mostrarse alegre, triste, humilde, altivo,
 
 the end
+
+Jorge Adrian Cuellar Cavazos 1633401
+
+¿Se puede hacer un “Pull request” y un “Merge” entre el “Master branch” y la rama
+StarWars?
+creo que si se puede hacer puesto es una reetroalimentacion, ya que el "Pull request" y el "Merge" van de la mano para hacer el "Master branch" 
